@@ -1,4 +1,4 @@
-# Proyecto Bolt SB1
+# Proyecto para Metodologias Agiles - Diario ll
 
 Este proyecto es una aplicación web desarrollada con React, TypeScript y Vite. Utiliza TailwindCSS para los estilos y está configurado para un flujo de desarrollo moderno y rápido.
 
