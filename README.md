@@ -47,15 +47,8 @@ project/
    npm run preview
    ```
 
-5. **Linting (opcional)**
-
-   ```pwsh
-   npm run lint
-   ```
-
 ## Requisitos
 - Node.js >= 18
 - npm >= 9
 
 ---
-Cualquier duda, consulta el código fuente o contacta al desarrollador.
